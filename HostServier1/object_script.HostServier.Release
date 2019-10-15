@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\login.o
+./release\tcpservier.o
+./release\thread.o
+./release\qrc_image.o
+./release\moc_mainwindow.o
+./release\moc_login.o
+./release\moc_tcpservier.o
+./release\moc_thread.o
+);

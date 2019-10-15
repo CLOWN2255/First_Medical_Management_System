@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\login.o
+./debug\tcpservier.o
+./debug\thread.o
+./debug\qrc_image.o
+./debug\moc_mainwindow.o
+./debug\moc_login.o
+./debug\moc_tcpservier.o
+./debug\moc_thread.o
+);
