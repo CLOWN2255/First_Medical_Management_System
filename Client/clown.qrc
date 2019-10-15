@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/051.JPG</file>
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/072.JPG</file>
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/075.JPG</file>
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/132.bmp</file>
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/212.bmp</file>
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/620.bmp</file>
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/624.bmp</file>
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/826.bmp</file>
+        <file>E:/joker_QT/QT5.9Samp/chap14Network/samp14_2TCP/TCPClient/images/828.bmp</file>
+    </qresource>
+</RCC>
